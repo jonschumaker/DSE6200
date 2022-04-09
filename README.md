@@ -6,7 +6,9 @@ The goal of the project for this course is for you to develop a system that uses
 as the backend and has a user interface that interacts with the backend. You can use any NoSQL 
 database covered in this course as the backend. Your system can do anything, as long as it uses 
 NoSQL database as the backend. You can work on the project by yourself or with a partner, 
-expectations for individual and team projects are different. Your system should consist of the 
+expectations for individual and team projects are different. 
+
+Your system should consist of the 
 following components: 
     •  Dataset stored in a NoSQL database: you can use publicly available dataset, create your 
 dataset manually or generate it randomly using a script [20 points] 
@@ -24,9 +26,4 @@ presented through a UI. Please think about a reasonably complex and realistic
 map-reduce query [20 points] 
     • Up to 10 points will be given for interestingness or societal importance of the project, data 
 or quality of implementation. 
-Please send an email to the instructor by the project proposal deadline (see course schedule) with 
-the following information: 
-    • Names of the members of your team 
-    • NoSQL database you will be using 
-    • What your system will be doing  
-    • What data you will use     
+\
