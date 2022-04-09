@@ -1,6 +1,7 @@
 # DSE6200
 
 CSC 7710/DSE 6200 Course Project Information 
+
 The goal of the project for this course is for you to develop a system that uses a NoSQL database 
 as the backend and has a user interface that interacts with the backend. You can use any NoSQL 
 database covered in this course as the backend. Your system can do anything, as long as it uses 
